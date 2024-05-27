@@ -2,6 +2,15 @@
 
 This repository contains Python scripts for simulating nanogel structures using different dynamics and techniques. The simulations leverage the ESPResSo and pyiron frameworks to create, manipulate, and analyze nanogel structures.
 
+## Authors: Daniel Valero, Francesc Mas* and Sergio Madurga* 
+
+Department of Material Science and Physical Chemistry & Institute of Theoretical and Computational Chemistry (IQTC), University of Barcelona (UB), Barcelona, Catalonia, Spain 
+
+* Correspondence: fmas@ub.edu; s.madurga@ub.edu 
+
+Keywords: Computer simulations, Dissipative particle dynamics, Thermosensitive nanogel, PNIPAM, Volume phase transition 
+
+
 ## Directory Structure
 
 - **DPD Langevin Thermalisation**
