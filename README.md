@@ -4,7 +4,7 @@ This repository contains Python scripts for simulating nanogel structures using 
 
 ## Directory Structure
 
-- **DPD Lan Therm**
+- **DPD Langevin Thermalisation**
   - `DPD_Lan_Therm.py`: Builds polymer chains within a nanogel simulation using the ESPResSo package. Ensures random distribution of charges while avoiding consecutive charged beads.
 
 - **DPD**
