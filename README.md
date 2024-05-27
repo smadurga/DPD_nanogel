@@ -13,7 +13,7 @@ This repository contains Python scripts for simulating nanogel structures using 
 - **Langevin**
   - `Langevin.py`: Similar to `DPD_Lan_Therm.py`, but uses Langevin dynamics within the ESPResSo framework to construct polymer chains with specific bonded interactions.
 
-- **nanogel**
+- **nanogel builder**
   - `Nanogel.py`: Uses the pyiron framework to create and manipulate a nanogel structure. Constructs a diamond crystal structure of carbon atoms, adjusts atomic positions, and saves them for further simulation.
 
 ## Getting Started
