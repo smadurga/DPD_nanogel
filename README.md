@@ -31,7 +31,6 @@ Ensure you have the following libraries installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nanogel-simulation.git
-cd nanogel-simulation
+gh repo clone smadurga/DPD_nanogel
 
 
