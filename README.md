@@ -14,7 +14,7 @@ Keywords: Computer simulations, Dissipative particle dynamics, Thermosensitive n
 ## Directory Structure
 
 - **DPD Langevin Thermalisation**
-  - `DPD_Lan_Therm.py`: Builds polymer chains within a nanogel simulation using the ESPResSo package. Ensures random distribution of charges while avoiding consecutive charged beads.
+  - `DPD_Lan_Therm.py`: Builds polymer chains within a nanogel simulation using the ESPResSo package. Saves particle and bond data off the constructed nanogel after thermalization
 
 - **DPD**
   - `DPD.py`: Creates a nanogel structure from previously simulated data using Dissipative Particle Dynamics (DPD) with ESPResSo. Reads particle and bond data from files and constructs the nanogel.
@@ -32,8 +32,6 @@ Keywords: Computer simulations, Dissipative particle dynamics, Thermosensitive n
 Ensure you have the following libraries installed:
 - `espressomd`
 - `numpy`
-- `matplotlib`
-- `scipy`
 - `pyiron`
 
 ### Installing
